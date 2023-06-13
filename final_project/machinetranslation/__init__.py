@@ -1,0 +1,1 @@
+from tests import test_english_to_french, test_french_to_english
